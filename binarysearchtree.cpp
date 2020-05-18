@@ -413,7 +413,7 @@ int main()
 {
 node* root=NULL;
 int ch;
-cout<<"1.insertion\n2.inorder\n3.spiral\n4.preorder\n5.post order\n6.zig zag\n7.deletion\n8.level order(bfs)\n9.reverse level order\n10.size of BT\n11.Height\n12.Deepest Node\n13.Max sum in a level\n14.no of full nodes\n15.Max Element\n16.Search element\n17.Mirror of tree\n18.sum of all elements\n19. no of half nodes\n20.no of leaf nodes\n21.exit\n";
+cout<<"1.Insertion\n2.Inorder\n3.spiral\n4.preorder\n5.post order\n6.zig zag\n7.deletion\n8.level order(bfs)\n9.reverse level order\n10.size of BT\n11.Height\n12.Deepest Node\n13.Max sum in a level\n14.no of full nodes\n15.Max Element\n16.Search element\n17.Mirror of tree\n18.sum of all elements\n19. no of half nodes\n20.no of leaf nodes\n21.exit\n";
 while(1)
 {
 cout<<"Enter your choice\n";
